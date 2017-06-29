@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="widget_clock_time_shadow">#99000000</color>
+    <color name="widget_gid_shadow">#7F000000</color>
+    <color name="white_color">#ffffffff</color>
+
+</resources>

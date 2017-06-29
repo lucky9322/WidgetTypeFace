@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WidgetTypeFace</string>
+
+    <string name="forecast_day_default">--</string>
+    <string name="forecast_day_monday">星期一</string>
+    <string name="forecast_day_tuesday">星期二</string>
+    <string name="forecast_day_wednesday">星期三</string>
+    <string name="forecast_day_thursday">星期四</string>
+    <string name="forecast_day_friday">星期五</string>
+    <string name="forecast_day_saturday">星期六</string>
+    <string name="forecast_day_sunday">星期日</string>
+    <string name="clock_label">时间</string>
+</resources>

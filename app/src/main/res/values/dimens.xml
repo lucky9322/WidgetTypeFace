@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="widget_welcome_textsize">20sp</dimen>
+    <dimen name="widget_welcome_marginleft">20dp</dimen>
+    <dimen name="widget_name_textsize">24sp</dimen>
+    <dimen name="clock_time_textsize">85sp</dimen>
+    <dimen name="clock_time_marginleft">40dp</dimen>
+    <dimen name="clock_date_marginleft">50dp</dimen>
+    <dimen name="clock_time_margintop">57dp</dimen>
+    <dimen name="clock_date_textsize">24sp</dimen>
+    <dimen name="clock_date_margintop">15dp</dimen>
+    <dimen name="clock_week_marginleft">30dp</dimen>
+
+
+    <dimen name="widget_root_width">590dp</dimen>
+    <dimen name="widget_root_height">240dp</dimen>
+</resources>
